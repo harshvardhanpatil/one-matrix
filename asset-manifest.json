@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-baseline/static/css/main.5739ad41.chunk.css",
-    "main.js": "/react-baseline/static/js/main.2187686e.chunk.js",
-    "main.js.map": "/react-baseline/static/js/main.2187686e.chunk.js.map",
-    "runtime-main.js": "/react-baseline/static/js/runtime-main.3a76315b.js",
-    "runtime-main.js.map": "/react-baseline/static/js/runtime-main.3a76315b.js.map",
-    "static/js/2.e58419ee.chunk.js": "/react-baseline/static/js/2.e58419ee.chunk.js",
-    "static/js/2.e58419ee.chunk.js.map": "/react-baseline/static/js/2.e58419ee.chunk.js.map",
-    "static/js/3.2ba930e2.chunk.js": "/react-baseline/static/js/3.2ba930e2.chunk.js",
-    "static/js/3.2ba930e2.chunk.js.map": "/react-baseline/static/js/3.2ba930e2.chunk.js.map",
-    "index.html": "/react-baseline/index.html",
-    "static/css/main.5739ad41.chunk.css.map": "/react-baseline/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.e58419ee.chunk.js.LICENSE.txt": "/react-baseline/static/js/2.e58419ee.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-baseline/static/media/logo.6ce24c58.svg"
+    "main.css": "/one-matrix/static/css/main.5739ad41.chunk.css",
+    "main.js": "/one-matrix/static/js/main.2187686e.chunk.js",
+    "main.js.map": "/one-matrix/static/js/main.2187686e.chunk.js.map",
+    "runtime-main.js": "/one-matrix/static/js/runtime-main.2cad3be3.js",
+    "runtime-main.js.map": "/one-matrix/static/js/runtime-main.2cad3be3.js.map",
+    "static/js/2.e58419ee.chunk.js": "/one-matrix/static/js/2.e58419ee.chunk.js",
+    "static/js/2.e58419ee.chunk.js.map": "/one-matrix/static/js/2.e58419ee.chunk.js.map",
+    "static/js/3.2ba930e2.chunk.js": "/one-matrix/static/js/3.2ba930e2.chunk.js",
+    "static/js/3.2ba930e2.chunk.js.map": "/one-matrix/static/js/3.2ba930e2.chunk.js.map",
+    "index.html": "/one-matrix/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/one-matrix/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.e58419ee.chunk.js.LICENSE.txt": "/one-matrix/static/js/2.e58419ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/one-matrix/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a76315b.js",
+    "static/js/runtime-main.2cad3be3.js",
     "static/js/2.e58419ee.chunk.js",
     "static/css/main.5739ad41.chunk.css",
     "static/js/main.2187686e.chunk.js"
